@@ -1,0 +1,59 @@
+---
+title: "MTurk Occupational Diversity Replication"
+author: "Kathryn Daigle"
+date: "6/6/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction 
+
+Paper in google docs
+
+
+## Method and Analysis 
+Paper in google docs
+
+## Results 
+Table 1 (copy and paste from old code)
+```{r}
+
+```
+
+Box Plot
+```{r}
+
+```
+
+## Demographics
+Paper in google docs
+
+## Age
+```{r}
+
+```
+
+## Gender
+```{r}
+
+```
+
+## Ethnicity
+```{r}
+
+```
+
+## Education Level
+```{r}
+
+```
+
+
+## Discussion
+Paper in google docs 
+
+
+*** (from help) Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
